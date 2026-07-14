@@ -25,8 +25,7 @@ epiCypher_barcodes: config/epicypher_HA_panel_nuc_barcodes.csv
 
 spikeIn_genome:
   name: Escherichia_coli_K_12_MG1655
-  link: https://s3.amazonaws.com/igenomes.illumina.com/Escherichia_coli_K_12_MG1655/NCBI/2001-10-15/Escherichia_coli_K_12_MG1655_NCBI_2001-10-15.tar.gz
-
+  link: http://ftp.ensemblgenomes.org/pub/bacteria/current/fasta/bacteria_0_collection/escherichia_coli_str_k_12_substr_mg1655_gca_000005845/dna/Escherichia_coli_str_k_12_substr_mg1655_gca_000005845.ASM584v2.dna.toplevel.fa.gz
 
 
 

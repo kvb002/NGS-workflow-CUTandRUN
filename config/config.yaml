@@ -43,4 +43,3 @@ params:
   filter_peaks_by_replicates:
     min_overlap: 10
     replicate_threshold: 2
-    
